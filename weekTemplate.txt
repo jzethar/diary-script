@@ -1,0 +1,14 @@
+Previous week: [[{week_prev}]]
+
+[[{day1}]]
+[[{day2}]]
+[[{day3}]]
+[[{day4}]]
+[[{day5}]]
+
+
+Next week: [[{week_next}]]
+
+## Weekly
+
+###

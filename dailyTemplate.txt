@@ -1,0 +1,16 @@
+Week: [[{Week}]] 
+Previous day: [[{prev_day}]] 
+
+## Tasks for today 
+1. 
+2. 
+
+## Daily 
+
+ 
+
+## Results: 
+1. 
+2. 
+
+Next day: [[{next_day}]]
